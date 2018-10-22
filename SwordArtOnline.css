@@ -1,0 +1,41 @@
+ul.Menu {
+margin: 0;
+padding: 0;
+overflow: hidden;
+border: 4px solid #413E3E;
+background: lightblue;
+}
+
+ul.Menu li {
+	padding: 14px;
+	float: left;
+	border: 4px;
+	border-color: black;
+	list-style-type: none;
+}
+
+ul.Menu li a {
+	color: black;
+}
+	
+
+ul.Menu li a:hover {
+color: grey;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	text-decoration: underline;
+}
+ 
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
